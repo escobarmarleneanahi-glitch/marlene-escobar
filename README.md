@@ -1,2 +1,1 @@
-"Alta de socio"
-
+"Alta Socico"
